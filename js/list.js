@@ -86,8 +86,8 @@ const d = {
 					"hz": "144hz"
 				}, 
 		         ],
-                       "name": "Explorers",
-                       "author": "ItzKaizenGD",
+                       "name": "Cristallize",
+                       "author": "StoNeasE",
                        "more": "none",
                        "id": 63730118,
                        "pass": "Free to copy",
@@ -105,8 +105,8 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "Virtual Riot",
-			"author": "Serpyy",
+			"name": "Explorers",
+			"author": "ItzKaiZenGD",
 			"more": "none",
 			"id": 60988234,
 			"pass": "Free to copy",
@@ -124,7 +124,7 @@ const d = {
 					"hz": "288hz"
 				},
 			],
-			"name": "Shitty Delta Interface",
+			"name": "Virtual Riot",
 			"author": "MP3141",
 			"more": "none",
 			"id": 63075127,
@@ -143,8 +143,8 @@ const d = {
 					"hz": "144hz"
 				},
 		         ],
-                       "name": "Shitty Removed Submission",
-                       "author": "v1nnyy and xSmajlik [v1nnyy]",
+                       "name": "New Death Corridor",
+                       "author": "NyruNGD",
                        "more": "none",
                        "id": 63781808,
                        "pass": "Free to copy",
@@ -162,8 +162,8 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty Balengu Vortex",
-			"author": "MythicalTG",
+			"name": "Abbysm Of Hell",
+			"author": "MrPuffi",
 			"more": "none",
 			"id": 63863988,
 			"pass": "Free to copy",
@@ -181,7 +181,7 @@ const d = {
 					"hz": "300hz"
 				},
 			],
-			"name": "Shitty Zaphkiel",
+			"name": "Nightmare Mode",
 			"author": "Serpyy [XanPlayzGamez]",
 			"more": "none",
 			"id": 60976052,
@@ -200,7 +200,7 @@ const d = {
 					"hz": "165hz"
 				},
 			],
-			"name": "Shitty Spacial Rend",
+			"name": "Nano Love",
 			"author": "Lawnmower and Jah [Lawnmower]",
 			"more": "none",
 			"id": 63976167,
@@ -219,7 +219,7 @@ const d = {
 					"hz": "120hz"
 				},
 			],
-			"name": "Shitty Madmansion",
+			"name": "Starlight Circles",
 			"author": "Aassbll",
 			"more": "none",
 			"id": 57251824,
@@ -238,8 +238,8 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "Shitty Catharsis",
-			"author": "TheKate and more [MrDash]",
+			"name": "PaiX",
+			"author": "NyruNGD",
 			"more": "Vlaash, AcropolisBoy, theRealKlaro, zLunatiX, MoVaVi",
 			"id": 60457267,
 			"pass": "032520",
@@ -257,7 +257,7 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "Shitty AfterCataBath",
+			"name": "The Grey Hell",
 			"author": "AcropolisBoy [LJosh]",
 			"more": "none",
 			"id": 57050573,
