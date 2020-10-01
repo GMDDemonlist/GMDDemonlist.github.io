@@ -105,7 +105,7 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "Explorers",
+			"name": "Abysm Of Hell",
 			"author": "ItzKaiZenGD",
 			"more": "none",
 			"id": 60988234,
@@ -143,7 +143,7 @@ const d = {
 					"hz": "144hz"
 				},
 		         ],
-                       "name": "New Death Corridor",
+                       "name": "Starlight Circles",
                        "author": "NyruNGD",
                        "more": "none",
                        "id": 63781808,
@@ -162,7 +162,7 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Abbysm Of Hell",
+			"name": "Explorers",
 			"author": "MrPuffi",
 			"more": "none",
 			"id": 63863988,
@@ -181,7 +181,7 @@ const d = {
 					"hz": "300hz"
 				},
 			],
-			"name": "Nightmare Mode",
+			"name": "New Death Corridor",
 			"author": "Serpyy [XanPlayzGamez]",
 			"more": "none",
 			"id": 60976052,
@@ -219,7 +219,7 @@ const d = {
 					"hz": "120hz"
 				},
 			],
-			"name": "Starlight Circles",
+			"name": "PaiX",
 			"author": "Aassbll",
 			"more": "none",
 			"id": 57251824,
@@ -238,7 +238,7 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "PaiX",
+			"name": "The Grey Hell",
 			"author": "NyruNGD",
 			"more": "Vlaash, AcropolisBoy, theRealKlaro, zLunatiX, MoVaVi",
 			"id": 60457267,
@@ -257,8 +257,8 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "The Grey Hell",
-			"author": "AcropolisBoy [LJosh]",
+			"name": "Nightmare Mode",
+			"author": "juan000",
 			"more": "none",
 			"id": 57050573,
 			"pass": "666666",
